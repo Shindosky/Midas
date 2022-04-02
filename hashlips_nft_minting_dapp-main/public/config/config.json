@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x61c4d3824f558ae0ad27e3337a0c2ad669c3e5ba",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x6bf5cafe826970963087eed80ae23d4674b3519169133e35f41ffbefd57d8b3b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Midas Factory 92",
+  "SYMBOL": "MF92NFT",
+  "MAX_SUPPLY": 800,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/midas-factory-92-v2",
+  "SHOW_BACKGROUND": true
+}
